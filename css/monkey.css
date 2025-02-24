@@ -1,0 +1,9 @@
+body {
+    font-family: Courier New;
+    background-color: rgb(97, 137, 106);
+    text-align: center;
+  }
+.img{
+    width: 600px;
+    height: 400px;
+}
